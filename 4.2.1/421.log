@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.15)  3 MAR 2018 00:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.15)  13 APR 2018 21:29
 entering extended mode
-**./4.3.3.tex
-(4.3.3.tex
+**./421.tex
+(421.tex
 LaTeX2e <2017-04-15>
 Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
 ("D:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -1311,12 +1311,12 @@ s
 \f@nch@O@olf=\skip70
 \f@nch@O@orf=\skip71
 )
-(4.3.3.aux
+(421.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 5.
  ("D:\Program Files\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )<<t2a.cmap>>)
-\openout1 = `4.3.3.aux'.
+\openout1 = `421.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -1523,16 +1523,38 @@ e 83.
  [1
 
 {C:/Users/Gleb/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg>]
+<img1.jpg, id=15, 618.31pt x 477.785pt>
+File: img1.jpg Graphic file (type jpg)
+<use img1.jpg>
+Package pdftex.def Info: img1.jpg  used on input line 111. on input line 111.
+Package pdftex.def Info: Requested size: 189.61201pt x 146.51521pt on input lin
+e 111.
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 6995) in paragraph at lines 118--120
+\T2A/faq/m/n/12 ”словие ин-тер-фе-рен-ци-он-но-го ми-ни-му-ма
+ []
+
+
+Overfull \hbox (17.5322pt too wide) in paragraph at lines 108--121
+[]$[]$   $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--121
 
  []
 
+<img2.jpg, id=16, 1029.8475pt x 433.62pt>
+File: img2.jpg Graphic file (type jpg)
+<use img2.jpg>
+Package pdftex.def Info: img2.jpg  used on input line 146. on input line 146.
+Package pdftex.def Info: Requested size: 386.95897pt x 162.92468pt on input lin
+e 146.
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 132. on input line 132.
+Package pdftex.def Info: logo.jpg  used on input line 150. on input line 150.
 Package pdftex.def Info: Requested size: 28.45274pt x 15.44743pt on input line 
-132.
+150.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 19.79747pt.
@@ -1541,102 +1563,75 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2
 
-]
-<img.png, id=24, 569.87906pt x 203.25937pt>
-File: img.png Graphic file (type png)
-<use img.png>
-Package pdftex.def Info: img.png  used on input line 138. on input line 138.
-Package pdftex.def Info: Requested size: 435.32423pt x 155.2665pt on input line
- 138.
-<scheme.png, id=25, 572.1375pt x 148.30406pt>
-File: scheme.png Graphic file (type png)
-<use scheme.png>
-Package pdftex.def Info: scheme.png  used on input line 147. on input line 147.
-
-Package pdftex.def Info: Requested size: 483.69688pt x 125.38014pt on input lin
-e 147.
+ <./img1.jpg>]
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 154. on input line 154.
+Package pdftex.def Info: logo.jpg  used on input line 175. on input line 175.
 Package pdftex.def Info: Requested size: 28.45274pt x 15.44743pt on input line 
-154.
- [3 <./img.png> <./scheme.png>]
+175.
+ [3 <./img2.jpg>]
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 216. on input line 216.
+Package pdftex.def Info: logo.jpg  used on input line 231. on input line 231.
 Package pdftex.def Info: Requested size: 28.45274pt x 15.44743pt on input line 
-216.
+231.
  [4]
-File: logo.jpg Graphic file (type jpg)
-<use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 273. on input line 273.
-Package pdftex.def Info: Requested size: 28.45274pt x 15.44743pt on input line 
-273.
- [5]
-<itog.png, id=36, 2844.6275pt x 2132.96875pt>
-File: itog.png Graphic file (type png)
-<use itog.png>
-Package pdftex.def Info: itog.png  used on input line 280. on input line 280.
-Package pdftex.def Info: Requested size: 386.95897pt x 290.15152pt on input lin
-e 280.
-<ris1.jpg, id=38, 1095.09125pt x 494.84875pt>
-File: ris1.jpg Graphic file (type jpg)
-<use ris1.jpg>
-Package pdftex.def Info: ris1.jpg  used on input line 291. on input line 291.
-Package pdftex.def Info: Requested size: 386.95897pt x 174.86082pt on input lin
-e 291.
-File: logo.jpg Graphic file (type jpg)
-<use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 299. on input line 299.
-Package pdftex.def Info: Requested size: 28.45274pt x 15.44743pt on input line 
-299.
- [6 <./itog.png> <./ris1.jpg>]
-<multi.jpg, id=43, 2474.24374pt x 2084.78876pt>
-File: multi.jpg Graphic file (type jpg)
-<use multi.jpg>
-Package pdftex.def Info: multi.jpg  used on input line 308. on input line 308.
-Package pdftex.def Info: Requested size: 241.84843pt x 203.7512pt on input line
- 308.
-LaTeX Font Info:    Try loading font information for OMS+faq on input line 322.
+<graph1.png, id=37, 2844.6275pt x 2132.96875pt>
+File: graph1.png Graphic file (type png)
+<use graph1.png>
+Package pdftex.def Info: graph1.png  used on input line 234. on input line 234.
 
-LaTeX Font Info:    No file OMSfaq.fd. on input line 322.
+Package pdftex.def Info: Requested size: 483.69688pt x 362.66498pt on input lin
+e 234.
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg  used on input line 248. on input line 248.
+Package pdftex.def Info: Requested size: 28.45274pt x 15.44743pt on input line 
+248.
+ [5 <./graph1.png>]
+LaTeX Font Info:    Try loading font information for OMS+faq on input line 256.
+
+LaTeX Font Info:    No file OMSfaq.fd. on input line 256.
 
 
 LaTeX Font Warning: Font shape `OMS/faq/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 322.
+(Font)              for symbol `textbullet' on input line 256.
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 330. on input line 330.
+Package pdftex.def Info: logo.jpg  used on input line 268. on input line 268.
 Package pdftex.def Info: Requested size: 28.45274pt x 15.44743pt on input line 
-330.
-[7 <./multi.jpg>] (4.3.3.aux)
+268.
+[6] (421.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 19245 strings out of 493312
- 360405 string characters out of 3138889
- 528211 words of memory out of 10000000
- 22451 multiletter control sequences out of 15000+200000
- 570408 words of font info for 64 fonts, out of 3000000 for 9000
+ 19222 strings out of 493312
+ 360208 string characters out of 3138889
+ 526174 words of memory out of 10000000
+ 22432 multiletter control sequences out of 15000+200000
+ 569539 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,15n,77p,10381b,613s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,15n,77p,10379b,615s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Gleb/AppData/Roaming/MiKTeX/2.9/fonts/enc/t2/t2a.enc}<D:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/pscyr/antiq4.pfb><D:/Program Files/MiKTeX 2.9
-/fonts/type1/public/pscyr/antiq5.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/pscyr/antiq6.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/an
-tiq7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb
-><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on 4.3.3.pdf (7 pages, 1568096 bytes).
+les/MiKTeX 2.9/fonts/type1/public/pscyr/antiq5.pfb><D:/Program Files/MiKTeX 2.9
+/fonts/type1/public/pscyr/antiq6.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/pscyr/antiq7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi
+12.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy6.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmsy8.pfb>
+Output written on 421.pdf (6 pages, 557805 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
+ 87 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 59 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
